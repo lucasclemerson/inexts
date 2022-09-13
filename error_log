@@ -1,0 +1,1 @@
+[12-Sep-2022 17:09:06 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'componentes/alerta.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/atlanti1/inexts.atlantic.tec.br/application/views/index.php on line 23
